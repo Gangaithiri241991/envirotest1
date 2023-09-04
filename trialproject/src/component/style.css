@@ -1,0 +1,29 @@
+.container-doctor{
+    display :flex;
+    gap:10px;
+    background-color: white;
+    justify-content: right;
+    padding:20px 20px 60px 20px;
+}
+.headingdoc{
+    align-items: left;
+    padding-left: 100px;
+    font-size:30px;
+}
+.doc-heading{
+    align-items: center;
+}
+.doctor-container2{
+    background-color:palegoldenrod;
+    padding: 30px 30px 30px 30px;
+    display:flex;
+    transition: all 0.3s;
+    box-shadow: 0 0.6rem 1rem 0 rgba(0, 0, 0, 0.1);
+    padding-left:12px;
+  }
+  .doc-heading{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    
+  }
